@@ -11,6 +11,8 @@ import java.awt.Font;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+//This was my first application I developed
+//All of the code was condensed into one file for this version
 public class Tetris extends JPanel {
 
     //Declaring the Tetris pieces in 2d boolean arrays
